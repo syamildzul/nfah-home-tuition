@@ -1,2 +1,2 @@
-# nfah-home-tuition.github.io
+# nfah-home-tuition
 Page for Nfah Home Tuition
